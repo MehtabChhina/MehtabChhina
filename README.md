@@ -1,3 +1,11 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehtab-chhina/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mehtabchhina/)
+
+
+
+
+
+
 - 👋 Hi, I’m @MehtabChhina
 - 👀 I’m interested in ... Data Analytics 
 - 🌱 I’m currently learning ... Tableau/SQL/R
